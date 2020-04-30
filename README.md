@@ -1,5 +1,6 @@
-# Analise-de-Sentimentos-Node-
-Analise de sentimentos em frases utilizando Algorithmia 
+# Analise-de-Sentimentos-Node.js 
+
+
 Para rodar o arquivo index.js  execute os seguintes passos
  1 -- Instale o Node.js
     -- Link: https://nodejs.org/en/download/
